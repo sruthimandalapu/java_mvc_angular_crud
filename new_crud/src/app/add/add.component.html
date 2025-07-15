@@ -1,0 +1,6 @@
+<form [formGroup]="basicForm" (ngSubmit)="onSubmitForm()">
+    Enter First Name: <input type="text" formControlName="firstName"><br>
+    Enter Last Name: <input type="text" formControlName="lastName"><br>
+    Enter Email: <input type="text" formControlName="email"><br>
+    <input type="submit" value="submit">
+</form>

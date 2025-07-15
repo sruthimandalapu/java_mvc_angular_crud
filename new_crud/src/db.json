@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "1234",
+      "firstName": "sruthi",
+      "lastName": "mandalapu",
+      "email": "sruthi@gmail.com"
+    },
+    {
+      "id": "9b26",
+      "firstName": "sruthi1",
+      "lastName": "mandalapu1",
+      "email": "sruthi1@gmail.com"
+    },
+    {
+      "id": "1e5c",
+      "firstName": "s",
+      "lastName": "sru",
+      "email": "sruthi@gmail.com"
+    }
+  ]
+}
